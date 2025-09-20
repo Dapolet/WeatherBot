@@ -1,0 +1,9 @@
+aiogram
+requests
+matplotlib
+apscheduler
+pytz
+geopy
+timezonefinderL
+python-dotenv
+babel
