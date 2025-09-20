@@ -27,7 +27,7 @@ from aiogram.filters import Command
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # ==== Настройки ====
-API_TOKEN = "8236397128:AAH_6odkpEJiYDKIdLeQ_s43-OKn3hq7hZ0"
+API_TOKEN = "API"
 
 DEFAULT_CITY = "Moscow"
 DEFAULT_LAT, DEFAULT_LON = 55.75, 37.61
@@ -588,3 +588,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
